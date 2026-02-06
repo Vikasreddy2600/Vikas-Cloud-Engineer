@@ -5,7 +5,7 @@ My Professional Resume
 This repository contains my latest professional resume.
 
 ## 🔗 View Resume
-VIKAS REDDY_Cloud_Engineer.pdf
+https://github.com/Vikasreddy2600/Vikas-Cloud-Engineer/blob/main/VIKAS%20REDDY_Cloud_Engineer.pdf
 
 
 ## 🧠 Skills Highlight
