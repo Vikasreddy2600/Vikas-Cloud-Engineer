@@ -5,7 +5,7 @@ My Professional Resume
 This repository contains my latest professional resume.
 
 ## 🔗 View Resume
-[Click here to view my resume](Vikas_Reddy_Cloud_Engineer_Resume.pdf)
+
 
 ## 🧠 Skills Highlight
 - AWS (EC2, S3, IAM)
